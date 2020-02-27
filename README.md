@@ -1,2 +1,9 @@
-# static-facebook
-Static facebook page to introduction from ReactJS
+# Static Facebook Page
+
+<p>Learning about ReactJS</p>
+
+Making responsive using flexbox:
+
+![](src/application.gif)
+
+by Igor Araújo ;)
