@@ -6,4 +6,4 @@ Making responsive using flexbox:
 
 ![](src/application.gif)
 
-by Igor Araújo ;)
+by <strong>Igor Araújo ;)</strong>
